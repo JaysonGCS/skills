@@ -1,5 +1,7 @@
-# Claude Code
+# Claude Code and Agents
 .claude/
+skills-lock.json
+.agents/
 
 # macOS
 .DS_Store
