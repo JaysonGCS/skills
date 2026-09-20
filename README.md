@@ -6,6 +6,15 @@
 
 ## Install
 
+**Claude Code**
+
 ```bash
-ln -s "$PWD/skills/<name>" ~/.claude/skills/<name>
+claude plugin marketplace add JaysonGCS/skills
+claude plugin install jaysongcs-skills
+```
+
+**Other agents**
+
+```bash
+npx skills@latest add JaysonGCS/skills
 ```

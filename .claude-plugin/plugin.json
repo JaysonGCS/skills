@@ -1,0 +1,10 @@
+{
+  "name": "jaysongcs-skills",
+  "description": "Agent skills by JaysonGCS",
+  "version": "0.1.0",
+  "author": {
+    "name": "JaysonGCS"
+  },
+  "repository": "https://github.com/JaysonGCS/skills",
+  "license": "MIT"
+}

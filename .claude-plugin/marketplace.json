@@ -1,0 +1,15 @@
+{
+  "name": "jaysongcs-skills",
+  "description": "Agent skills by JaysonGCS",
+  "owner": {
+    "name": "JaysonGCS"
+  },
+  "plugins": [
+    {
+      "name": "jaysongcs-skills",
+      "source": "./",
+      "description": "Agent skills by JaysonGCS",
+      "version": "0.1.0"
+    }
+  ]
+}
