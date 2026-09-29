@@ -29,3 +29,5 @@ Short and direct. No paragraphs. Write in ASD-STE100 Simplified Technical Englis
 Show the essence visually wherever possible. Use a short example, a diagram, or a small table when the content allows one. Keep each visual small and focused on the key point.
 
 Use point form for the rest. **Bold** the key takeaways.
+
+When the content covers several concepts, group related points under short headings. Give each group its own essence and order the groups by importance or by logical sequence.
