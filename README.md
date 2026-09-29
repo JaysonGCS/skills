@@ -2,7 +2,7 @@
 
 | Skill | Description |
 | --- | --- |
-| [tldr](skills/tldr/SKILL.md) | Restructure a response into sections, point form, tables, diagrams and examples — not paragraphs. |
+| [tldr](skills/tldr/SKILL.md) | Distil a response to its essence — key points, examples and diagrams in a short, scannable shape. |
 
 ## Install
 
