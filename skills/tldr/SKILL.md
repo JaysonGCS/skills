@@ -24,7 +24,7 @@ Drop background, reasoning steps, alternatives, and edge cases. If the user want
 
 ## Format
 
-Short and direct. No paragraphs. Write in ASD-STE100 Simplified Technical English.
+Short and direct. No paragraphs. Write in ASD-STE100 Simplified Technical English. State points directly; avoid "X, not Y" contrasts.
 
 Show the essence visually wherever possible. Use a short example, a diagram, or a small table when the content allows one. Keep each visual small and focused on the key point.
 
